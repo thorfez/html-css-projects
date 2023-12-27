@@ -1,0 +1,46 @@
+.div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.div--img{
+    width: 272px;
+    height: 92px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+
+}
+
+.div--input{
+    width: 550px;
+    height: 41px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1%;
+    border-radius: 25px;
+    padding-top: 5px;
+    padding-left: 14px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.div--div{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5%;
+}
+
+.div--div--btn{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 34px;
+    width: 135px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: 1px solid;
+    border-radius: 3px;
+}
